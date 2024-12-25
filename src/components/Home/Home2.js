@@ -24,13 +24,9 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Web Technologies and Products </b> 
               </i>
-              <br />
+              <br /> 
               <br />
               Whenever possible, I also apply my passion for developing products
               with 
